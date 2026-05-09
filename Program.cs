@@ -8,7 +8,7 @@ class SistemaCalificacionesUniv
         double notaMinima = 70;
         double suma;
 
-        
+        //Prueba
         do
         {
             Console.Write("Ingrese cantidad de estudiantes: ");
